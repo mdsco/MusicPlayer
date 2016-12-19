@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:onClick="stopSongPlay"
-        android:text="Stop" />
+        android:text="Stop"
+        android:layout_alignParentBottom="true" />
 
 </RelativeLayout>
